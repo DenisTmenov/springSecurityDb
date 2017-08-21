@@ -1,4 +1,4 @@
-package com.denis.springsecuritydb;
+package com.denis.springsecuritydb.model;
 
 import javax.persistence.*;
 import java.util.Set;
