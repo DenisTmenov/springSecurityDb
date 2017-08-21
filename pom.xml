@@ -13,7 +13,7 @@
         <spring-data-jpa.version>1.11.6.RELEASE</spring-data-jpa.version>
         <hibernate.version>5.2.10.Final</hibernate.version>
         <hibernate-validator.version>6.0.1.Final</hibernate-validator.version>
-        <mysql-connector.version>6.0.6</mysql-connector.version>
+        <mysql-connector.version>5.1.40</mysql-connector.version>
         <commons-dbcp.version>1.4</commons-dbcp.version>
         <jstl.version>1.2</jstl.version>
         <junit.version>4.12</junit.version>
@@ -64,7 +64,6 @@
             <artifactId>hibernate-core</artifactId>
             <version>${hibernate.version}</version>
         </dependency>
-
 
         <dependency>
             <groupId>mysql</groupId>
